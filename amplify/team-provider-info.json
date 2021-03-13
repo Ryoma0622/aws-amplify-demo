@@ -12,12 +12,6 @@
       "AmplifyAppId": "du7s7xuh6kgat"
     },
     "categories": {
-      "hosting": {
-        "amplifyhosting": {
-          "appId": "du7s7xuh6kgat",
-          "type": "manual"
-        }
-      },
       "auth": {
         "todo91b83822": {}
       }

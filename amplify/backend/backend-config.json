@@ -17,13 +17,7 @@
       }
     }
   },
-  "hosting": {
-    "amplifyhosting": {
-      "service": "amplifyhosting",
-      "providerPlugin": "awscloudformation",
-      "type": "manual"
-    }
-  },
+  "hosting": {},
   "auth": {
     "todo91b83822": {
       "service": "Cognito",
